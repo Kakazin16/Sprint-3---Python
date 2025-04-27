@@ -1,5 +1,4 @@
-#Código
-
+```Python
 import os
 import pandas as pd
 
@@ -220,3 +219,4 @@ def menu():
         else: print("Essa opção não existe")
 
 menu()
+```
